@@ -14,6 +14,5 @@
 I like understanding the reasoning behind every line of code, breaking problems into small steps, and turning ideas into working projects.
 
 ### 📫 Reach me
-Email: jorybasil@gmail.com
-
+Email: [jorybasil@gmail.com](mailto:jorybasil@gmail.com)
 LinkedIn: [Mohab Tawaha](https://www.linkedin.com/in/mohab-tawaha-387b72375/)
