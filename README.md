@@ -2,7 +2,7 @@
 
 🎓 A student at 42, learning by building, experimenting, and solving problems.
 
-### 🚀 What I'm working on
+# What I'm working on
 - Building projects in C, C++, and Python.
 - Exploring algorithms, maze generation, and game development.
 - Improving my understanding of Linux and how software works.
