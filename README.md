@@ -4,7 +4,7 @@
 
 # What I'm working on
 - Building projects in C, C++, and Python.
-- Exploring algorithms, maze generation, and game development.
+- Exploring algorithms.
 - Improving my understanding of Linux and how software works.
 
 ### Languages
