@@ -7,13 +7,11 @@
 - Exploring algorithms, maze generation, and game development.
 - Improving my understanding of Linux and how software works.
 
-### 🛠️ Languages & Tools
-- **Languages:** C · C++ · Python · Bash
-- **Tools:** Git · GitHub · Make · Vim
-- **Environment:** Linux · Fedora · Debian
+### Languages & Tools
+- **Languages:** C · C++ · Python ·
 
-### 🧠 How I learn
+###  How I learn
 I like understanding the reasoning behind every line of code, breaking problems into small steps, and turning ideas into working projects.
 
 ### 📫 Reach me
-Add your email or LinkedIn link here.
+My email: mailto:jorybasil@gmail.com
