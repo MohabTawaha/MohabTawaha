@@ -15,4 +15,5 @@ I like understanding the reasoning behind every line of code, breaking problems 
 
 ### 📫 Reach me
 Email: [jorybasil@gmail.com](mailto:jorybasil@gmail.com)
+
 LinkedIn: [Mohab Tawaha](https://www.linkedin.com/in/mohab-tawaha-387b72375/)
