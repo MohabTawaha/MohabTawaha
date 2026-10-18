@@ -7,7 +7,7 @@
 - Exploring algorithms, maze generation, and game development.
 - Improving my understanding of Linux and how software works.
 
-### Languages & Tools
+### Languages
 - **Languages:** C · C++ · Python ·
 
 ###  How I learn
