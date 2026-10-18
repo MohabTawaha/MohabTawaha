@@ -1,6 +1,6 @@
 # Hi, I'm Mohab Tawaha 👋
 
-🎓 A student at 42, learning by building, experimenting, and solving problems.
+🎓 A Computer Engineering student and a student at 42, learning by building, experimenting, and solving problems.
 
 # What I'm working on
 - Building projects in C, C++, and Python.
